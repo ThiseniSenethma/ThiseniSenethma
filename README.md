@@ -1,13 +1,24 @@
 ## Hi there 👋 I'm Thiseni Senethma
 
 <br>
+<u>
+<li>👩‍🎓  I'm currently undertaking BSc (Hons) Artificial Intelligence And Data Science.</li>
+<li>👯‍♀️  I'm looking to collaborate with other like minded programmers and developers.</li>
+<li>📖  My goals for 2024 would be gain hands-on professional experience in real world scenarios.</li>
+</u>
+<br>
 
-- 👩‍🎓  I'm currently undertaking BSc (Hons) Artificial Intelligence And Data Science.
+<br>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=ThiseniSenethma&label=Profile%20views&color=0e75b6&style=flat" alt="ThiseniSenethma" /></p>
+<br>
 
-- 👯‍♀️  I'm looking to collaborate with other like minded programmers and developers.
-
-- 📖  My goals for 2024 would be gain hands-on professional experience in real world scenarios.
-
+<br>
+Contact me on: <u>
+                  <li><a href="https://www.linkedin.com/in/thiseni-paththamperuma-4386b7263/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/> 
+ </a></li>
+                  <li><a href="mailto:thisenisenethma@gmail.com">thisenisenethma@gmail.com</a></li>
+                  <li><a href="mailto:thiseni.20220256@iit.ac.lk">thiseni.20220256@iit.ac.lk</a></li>
+              </u>
 <br>
 
 ### Languages And Tools:
