@@ -31,12 +31,6 @@ Contact me on: <u>
 [<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="padding-right:20px;" />]()
 [<img align="left" alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="padding-right:20px;" />]()
 
-<br>
-
-<br>
-<br>
-
-<br>
 
 [<img align="left" alt="PyCharm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" style="padding-right:20px;" />]()
 [<img align="left" alt="IntelliJ" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" style="padding-right:20px;" />]()
@@ -49,5 +43,5 @@ Contact me on: <u>
 <br>
 <br>
 
-![Thiseni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiseniSenethma&theme=dark&show_icons=true)
+![Thiseni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiseniSenethma&theme=prussian&show_icons=true)                               ![ThiseniSenethma's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiseniSenethma&theme=prussian&show_icons=true&hide_border=false&layout=compact)
 
