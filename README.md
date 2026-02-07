@@ -4,7 +4,7 @@
 <u>
 <li>👩‍🎓  I'm currently undertaking BSc (Hons) Artificial Intelligence And Data Science.</li>
 <li>👯‍♀️  I'm looking to collaborate with other like minded programmers and developers.</li>
-<li>📖  My goals for 2024 would be gain hands-on professional experience in real world scenarios.</li>
+<li>📖  My goals for 2026 would be gain hands-on professional experience in real world scenarios.</li>
 </u>
 <br>
 
