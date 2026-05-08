@@ -44,11 +44,3 @@ Interested in Machine Learning, Deep Learning, Computer Vision, NLP, and Data An
 
 📧 Email  
 - thisenisenethma@gmail.com
-
----
-
-## 📊 GitHub Stats
-
-![Thiseni's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiseniSenethma&theme=prussian&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiseniSenethma&theme=prussian&layout=compact)
